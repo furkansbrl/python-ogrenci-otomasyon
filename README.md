@@ -1,4 +1,11 @@
-<h2>Projenin anlatımı: </h2>
+<h1> Projenin anlatımı: </h1>
+
+#### İlk olarak CLI üzerinden aşağıdaki kodları girerek bağımlılıkları yükleyin
+<li>pip install mysql-connector-python</li>
+<li>pip install matplotlib</li>
+
+***
+## Proje Açıklaması:
 <ol>
   <li> Kullanıcı veri tabanına kayıtlı olan verileri listeleyebilir.</li>
   <li> Kullanıcı veri tabanına yeni öğrenci kaydı ekleyebilir.</li>
